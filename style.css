@@ -1,0 +1,23 @@
+body {
+  background-color: #e8f4f8;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #1a5276;
+  text-shadow: 2px 2px 4px #aaa;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+form {
+  display: inline-block;
+  border: 2px solid #1a5276;
+  padding: 20px;
+  border-radius: 8px;
+}
